@@ -98,7 +98,7 @@ import java.util.UUID;
 public class RegisterBusinessActivity extends AppCompatActivity {
 
     final private String FCM_API = "https://fcm.googleapis.com/fcm/send";
-    final private String serverKey = "key=" + "AAAAH_uFKa4:APA91bHF4t6uDEB1k7daEAXw8vC-ciDHULV0Y0xoH-jLCFRyjSXahB-W15vJ7HoY80w9YxOBZTf9H6HR4FzE9GW_ZNj1869HBWs5ulRcVe_CejdivKEjDgRBx0SEoNzoOf7E69vUUel3";
+    final private String serverKey = "key=" + "Your key here";
     final private String contentType = "application/json";
     final String TAG = "NOTIFICATION TAG";
     Button btnSubmit, btnChooseImage, btnSave;
