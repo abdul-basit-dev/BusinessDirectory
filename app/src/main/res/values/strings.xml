@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Business Directory</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_list">Register Business</string>
+    <string name="menu_contact">Contact us</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_update_details">Update Details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="browse_all">Browse All</string>
+    <string name="top_listing">TOP Listing</string>
+    <string name="top_categories">Top Categories</string>
+
+    <string name="company_name">Company Name <font color='#FF0000'>*</font></string>
+    <string name="first_name">First Name <font color='#FF0000'>*</font></string>
+    <string name="Last_name">Last Name <font color='#FF0000'>*</font></string>
+
+    <string name="landline">Landline</string>
+    <string name="email">Email<font color='#FF0000'>*</font></string>
+    <string name="mobile">Mobile<font color='#FF0000'>*</font></string>
+    <string name="website">Website</string>
+    <string name="address_line_1">Address Line 1<font color='#FF0000'>*</font></string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="City">City<font color='#FF0000'>*</font></string>
+    <string name="State">State<font color='#FF0000'>*</font></string>
+    <string name="Country">Country<font color='#FF0000'>*</font></string>
+    <string name="business_card">Business Card<font color='#FF0000'>*</font></string>
+    <string name="pincode">PinCode<font color='#FF0000'>*</font></string>
+
+    <string name="m_email">Email</string>
+    <string name="m_mobile">Mobile</string>
+    <string name="name">Name<font color='#FF0000'>*</font></string>
+    <string name="message">Message<font color='#FF0000'>*</font></string>
+    <string name="business_details">Business Details<font color='#FF0000'>*</font></string>
+
+
+</resources>
